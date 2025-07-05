@@ -24,3 +24,9 @@ This open-source system is designed to fully automate content creation, publishi
 | Docker        | Local environment container    |
 
 ## 📂 Folder Structure
+
+zcash-deepseek-automation/
+├── n8n-flows/ # Workflow templates
+├── config/prompt-templates/ # AI prompt packs
+├── docker-compose.yml # Quick-start automation stack
+├── README.md
